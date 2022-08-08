@@ -1,10 +1,9 @@
 # Landing Page
+Model personal de un Landing page.
 
-Personal landing page template.
 
-Designed to keep simplicity in mind in both setup and UI.
-
-![Demo](https://imgur.com/a/arwUlz4)
+Pagina de muestra de mis trabajos.
+![Demo](https://imgur.com/7ucP6mf.png)
 
 ## Stack
 
